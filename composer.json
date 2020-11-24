@@ -1,0 +1,21 @@
+{
+  "name": "drinks-it/community-engineering-language-fr_ch",
+  "version": "0.0.1",
+  "type": "magento2-language",
+  "description": "fr_CH language package.",
+  "license": [
+    "OSL-3.0",
+    "AFL-3.0"
+  ],
+  "config": {
+    "sort-packages": true
+  },
+  "require": {
+    "magento/framework": "*"
+  },
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}
