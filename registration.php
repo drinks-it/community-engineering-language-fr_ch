@@ -7,4 +7,4 @@ declare(strict_types=1);
 
 use \Magento\Framework\Component\ComponentRegistrar;
 
-ComponentRegistrar::register(ComponentRegistrar::LANGUAGE, 'drinks_it_communityengineering_fr_ch', __DIR__);
+ComponentRegistrar::register(ComponentRegistrar::LANGUAGE, 'drinksit_fr_ch', __DIR__);
